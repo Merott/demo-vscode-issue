@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "app"
+    },
+    {
+      "path": "api"
+    }
+  ],
+  "settings": {
+    "vetur.format.defaultFormatter.html": "none",
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "blueprint.templatesPath": [".vscode/.templates"],
+    "editor.wordWrap": "wordWrapColumn",
+    "files.associations": {
+      "**/.vscode/.templates/**": "txt"
+    }
+  }
+}
